@@ -1,0 +1,27 @@
+# Maven / Java build output
+/target/
+/build/
+**/target/
+
+# Test and report artifacts
+/allure-results/
+/test-output/
+**/allure-results/
+**/test-output/
+
+# Compiled class files
+*.class
+
+# IDE files
+/.idea/
+/.settings/
+/.project
+/.classpath
+*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
